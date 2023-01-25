@@ -1,0 +1,23 @@
+<syntax name="gitcommit">
+
+  <meta>
+    <name>Git Commit Message</name>
+    <type>markup</type>
+  </meta>
+
+  <detectors>
+    <filename priority="1.0">COMMIT_EDITMSG</filename>
+  </detectors>
+
+  <comments>
+    <single>
+      <expression>#</expression>
+    </single>
+  </comments>
+
+  <tree-sitter>
+    <highlights />
+    <text-checking />
+  </tree-sitter>
+
+</syntax>
