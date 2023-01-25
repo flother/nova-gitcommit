@@ -18,3 +18,5 @@ You can set Nova up as your editor for writing your Git commit messages: type `g
    ```
 
 That's it! Next time you run `git commit`, Nova will open up, ready for you to write your commit message.
+
+_[Extension icon](https://www.flaticon.com/free-icons/commit-git) created by edt.im._
