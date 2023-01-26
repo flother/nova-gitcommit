@@ -3,7 +3,7 @@ This extension adds syntax highlighting for [Git](https://git-scm.com) commit me
 ## Features
 
 - Highlights subject line, message body, comments, etc
-- Supports highlighting for all 18 languages supported by Git
+- Supports highlighting for all 18 languages supported by Git (English, French, [etc](https://github.com/git/git/tree/master/po))
 - Supports the [Conventional Commits](https://www.conventionalcommits.org/) syntax
 
 # How to use Nova to edit your Git commits
