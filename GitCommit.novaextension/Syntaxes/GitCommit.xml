@@ -17,6 +17,7 @@
 
   <tree-sitter>
     <highlights />
+    <injections />
     <text-checking />
   </tree-sitter>
 
