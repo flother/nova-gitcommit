@@ -2,7 +2,7 @@
   "identifier": "is.flother.gitcommit",
   "name": "Git Commit",
   "organization": "Flother",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Syntax highlighting for Git commit messages",
   "repository": "https://github.com/flother/nova-gitcommit",
   "bugs": "https://github.com/flother/nova-gitcommit/issues",

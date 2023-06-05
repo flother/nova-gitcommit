@@ -1,4 +1,6 @@
-## Development version
+## Version 0.2.0
+
+**Released 5th June 2023**
 
 - Add syntax highlighting for diff portion of commit message (Nova 11+)
 
