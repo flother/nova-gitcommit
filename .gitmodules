@@ -1,0 +1,3 @@
+[submodule "tree-sitter-gitcommit"]
+	path = tree-sitter-gitcommit
+	url = https://github.com/gbprod/tree-sitter-gitcommit.git
